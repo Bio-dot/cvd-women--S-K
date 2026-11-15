@@ -50,7 +50,7 @@ Above-normal glucose was not clearly associated with the CVD label in the adjust
 
 ![The unadjusted share of records with a CVD label in each cholesterol category.](../figures/cvd_label_by_cholesterol.png)
 
-**Figure 4. CVD labels across cholesterol categories.** This graph shows the unadjusted share of records labeled with CVD in each cholesterol category. It is a descriptive comparison, not the adjusted regression result shown in Figure 1. Source: our analysis of Dataset 1.
+**Figure 4. CVD labels across cholesterol categories.** Bars show the share of records in each cholesterol category with a CVD label; error bars show 95% confidence intervals. This unadjusted comparison does not account for age, blood pressure, or glucose.
 
 ### A check on the model
 
