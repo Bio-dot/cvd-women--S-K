@@ -18,7 +18,7 @@ In our analysis, cholesterol categories showed a clear pattern after accounting 
 
 ## The Data and Our Methods
 
-We analyzed Dataset 1, the Cardiovascular Disease Dataset (cardiovascular_dataset_OpenBio_Final.csv), which contains individual-level records with measurements and a CVD label recorded at a medical exam. We used the 45,530 records coded as women in the dataset and, after applying our documented blood-pressure screening rules, analyzed 44,727 records. We converted age from days to years and treated cholesterol and glucose as categories. We fit a logistic regression model, which estimates how the odds of a yes/no outcome—in this case, a recorded CVD label—are associated with several factors while accounting for the others in the model. Our blood-pressure ranges were team-selected data-quality screening rules, not medical cutoffs. The dataset’s binary sex coding and its sample selection limit how broadly these findings can be applied.
+We analyzed Dataset 1, the [Cardiovascular Disease Dataset](https://github.com/Harvard-Undergraduate-OpenBio/openbio-datathon-2026/blob/main/track-02/data/cardiovascular_dataset_OpenBio_Final.csv), which contains individual-level records with measurements and a CVD label recorded at a medical exam. We used the 45,530 records coded as women in the dataset and, after applying our documented blood-pressure screening rules, analyzed 44,727 records. We converted age from days to years and treated cholesterol and glucose as categories. We fit a logistic regression model, which estimates how the odds of a yes/no outcome—in this case, a recorded CVD label—are associated with several factors while accounting for the others in the model. Our blood-pressure ranges were team-selected data-quality screening rules, not medical cutoffs. The dataset’s binary sex coding and its sample selection limit how broadly these findings can be applied.
 
 ## What We Found
 
@@ -74,8 +74,9 @@ This is a student data analysis. It is not medical advice, a diagnostic tool, or
 
 ## Data and Code
 
-- Repository: [link to your team repository]
-- Data sources: [list each dataset with its link]
+- Repository: [Our team repository](https://github.com/Bio-dot/cvd-women--S-K)
+- Data sources: [Cardiovascular Disease Dataset](https://github.com/Harvard-Undergraduate-OpenBio/openbio-datathon-2026/blob/main/track-02/data/cardiovascular_dataset_OpenBio_Final.csv)
+- [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 ## Acknowledgements
 
