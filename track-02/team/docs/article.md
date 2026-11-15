@@ -1,14 +1,14 @@
-# [Title: Short and Engaging, Stating Your Finding in Plain Words]
+# Cholesterol's Role in CVD Labels
 
-**[Subtitle: one sentence that adds detail to the title]**
+**Among women-coded records in one dataset, higher cholesterol categories were associated with higher odds of a cardiovascular disease label.**
 
-By [team members]
+By Sophia Hyder, Katsumi Nabwangu
 
-> Follow the [article guide](../../../docs/article-guide.md) from the [Harvard Undergraduate Data Project (HUDP)](https://www.hudp.org/). Delete this note and every bracketed prompt before you submit.
+A forest plot compares the estimated odds of a recorded CVD label across two cholesterol categories with the normal category. Both estimates are above the reference line of one, and the well-above-normal category has the larger estimate.
 
-![Describe the headline graph in a sentence for readers who cannot see it](../figures/headline.png)
+![Adjusted odds of a CVD label were higher in both elevated cholesterol categories than in the normal category.](../figures/headline.png)
 
-Figure 1. [Caption: what the graph shows and the one thing to notice.]
+Figure 1. [Cholesterol categories and CVD labels.** Compared with normal cholesterol, above-normal and well-above-normal cholesterol were associated with higher adjusted odds of a recorded CVD label. The model accounts for age, systolic and diastolic blood pressure, and glucose. The bars show 95% confidence intervals. Source: our analysis of Dataset 1]
 
 ## Introduction
 
@@ -43,6 +43,6 @@ Figure 1. [Caption: what the graph shows and the one thing to notice.]
 
 ## Acknowledgements
 
-[Anyone who supported your project.]
+Thank you to the organizers of Harvard's OpenBio, as well as 
 
 ---
