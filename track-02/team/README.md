@@ -47,7 +47,7 @@ Among 44,727 records coded as women, compared with normal cholesterol, above-nor
 
 Each additional year of age (OR 1.057, 95% CI 1.054–1.061), systolic mmHg (OR 1.059, 95% CI 1.056–1.061), and diastolic mmHg (OR 1.012, 95% CI 1.009–1.016) was also associated with higher adjusted odds, with both blood-pressure measures included in the model. 
 
-Above normal glucose was not clearly associated with the CVD label (OR 1.034, 95% CI 0.947–1.128), and well-above-normal glucose had a lower adjusted odds estimate (OR 0.745, 95% CI 0.677–0.819); this unexpected association does not mean high glucose is protective or that glucose caused the outcome.
+Above normal glucose was not clearly associated with the CVD label (OR 1.034, 95% CI 0.947–1.128), and well above normal glucose had a lower adjusted odds estimate (OR 0.745, 95% CI 0.677–0.819); this unexpected association does not mean high glucose is protective or that glucose caused the outcome.
 
 ## Limitations
 
