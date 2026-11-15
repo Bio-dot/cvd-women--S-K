@@ -1,4 +1,4 @@
-# Team R&S: Cholesterol and CVD Labels in Women-Coded Records
+# Team S&K: Cholesterol and CVD Labels in Women-Coded Records
 
 OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
