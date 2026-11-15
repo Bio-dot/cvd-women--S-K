@@ -60,13 +60,15 @@ As a sensitivity check, we refit the model without diastolic pressure. The AUC w
 
 ## Unanswered Questions
 
-This dataset does not tell us whether the measurements came before the development of CVD. It therefore cannot establish causes or estimate future disease risk. It also does not let us test whether these associations differ between women and men, or explain differences in CVD burden between countries. We did not include BMI, so this analysis does not assess whether body mass relative to height was associated with the CVD label.
+This dataset does not tell us whether the measurements came before the development of CVD. It therefore cannot establish causes or estimate future disease risk. We did not include BMI, so this analysis does not assess whether body mass relative to height was associated with the CVD label.
 
 The lower adjusted estimate for the highest glucose category is also unresolved. Further work would need to examine how the records were collected, whether other factors could explain the pattern, and whether it appears in an independent dataset.
 
 ## Conclusions, Limitations and Next Steps
 
 In this dataset, higher cholesterol categories were associated with higher adjusted odds of a recorded CVD label among records coded as women. Age and blood-pressure measures were also associated with the label. These findings describe patterns in the analyzed records; they do not establish causes, predict an individual’s future health, or necessarily apply to women outside this dataset.
+
+Dataset 1 includes records coded as both women and men, but our primary analysis focused only on records coded as women. We therefore did not test whether the associations differed between the dataset’s two recorded sex groups. A separate analysis using both groups and testing gender-by-factor interactions could investigate that question.
 
 The data record sex as binary, and our results should not be generalized beyond the recorded categories and sample. The blood-pressure bounds were team-selected screening rules, not clinical thresholds. Our AUC came from one random split, with no external validation. With more time, we would test whether the results hold in an independent dataset and examine why the highest glucose category had a lower adjusted estimate.
 
