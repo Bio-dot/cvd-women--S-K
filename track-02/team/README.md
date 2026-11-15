@@ -1,4 +1,4 @@
-# [Team Name]: [Project Title]
+# [Team R&S]: [Cholesterol and CVD Labels in Women-Coded Records]
 
 OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
@@ -8,18 +8,20 @@ OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
 | Name | Role |
 |---|---|
-| | |
+|Sophia Snyder|All|
 
 ## Research Question
 
-[One sentence. Example format: "Among women in Dataset 1, is X associated with Y after accounting for age?"]
+[Among records coded as women in Dataset 1, how are age, blood pressure, cholesterol, and glucose associated with the recorded CVD label?]
 
 ## Datasets Used
 
-- [ ] Dataset 1: Cardiovascular Disease Dataset
+- [Y] Dataset 1: Cardiovascular Disease Dataset
 - [ ] Dataset 2: Heart Attack Risk Prediction Dataset (synthetic)
 - [ ] Dataset 3: Global CVD in Women, Tables S1 and S2
-
+- **Dataset 1: Cardiovascular Disease Dataset** — individual-level records. We used records with gender code 1, identified as the shorter-height group in this file.
+- Datasets 2 and 3 were not used in this analysis.
+  
 ## How to Run
 
 1. The raw files are already in `track-02/data/` (see the [data guide](../data/README.md)). On Colab the first notebook cell downloads them.
