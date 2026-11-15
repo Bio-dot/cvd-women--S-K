@@ -1,4 +1,4 @@
-# Cholesterol's Role in CVD Labels
+# Higher Cholesterol Was Associated With Higher Odds of a CVD Label
 
 **Among women-coded records in one dataset, higher cholesterol categories were associated with higher odds of a cardiovascular disease label.**
 
@@ -8,7 +8,7 @@ A forest plot compares the estimated odds of a recorded CVD label across two cho
 
 ![Adjusted odds of a CVD label were higher in both elevated cholesterol categories than in the normal category.](../figures/headline.png)
 
-**Figure 1. Cholesterol categories and CVD labels.** Compared with normal cholesterol, above-normal and well-above-normal cholesterol were associated with higher adjusted odds of a recorded CVD label. The model accounts for age, systolic and diastolic blood pressure, and glucose. The bars show 95% confidence intervals. Source: our analysis of Dataset 1
+**Figure 1. Cholesterol categories and CVD labels.** Compared with normal cholesterol, above-normal and well-above-normal cholesterol were associated with higher adjusted odds of a recorded CVD label. The model accounts for age, systolic and diastolic blood pressure, and glucose. The horizontal error bars show 95% confidence intervals.
 
 ## Introduction
 
@@ -38,11 +38,11 @@ These odds ratios use different units: age is measured per year and blood pressu
 
 ![The share of records with a CVD label across age groups, using the age-group plot from the analysis notebook.](../figures/age_by_cvd_label.png)
 
-**Figure 2. CVD-label share across age groups.** The plotted share of records labeled with CVD tended to rise across age groups. This is an unadjusted descriptive pattern; it does not account for the other variables in the regression. Source: our analysis of Dataset 1.
+**Figure 2. Age distributions by CVD label.** The line in each box marks the median age, and the box spans the middle half of ages. Records with a CVD label had a higher median age in this dataset. Outlier points are hidden for readability, not removed from the analysis.
 
 ![The share of records with a CVD label across systolic blood-pressure groups.](../figures/systolic_bp_by_cvd_label.png)
 
-**Figure 3. CVD-label share across systolic blood-pressure groups.** The plotted share generally rose across systolic-pressure groups. The groups may contain different numbers of records, and this graph does not adjust for age, cholesterol, glucose, or diastolic pressure. Source: our analysis of Dataset 1.
+**Figure 3. Systolic blood pressure by CVD label.** The line in each box marks the median systolic pressure, and the box spans the middle half of readings. Records with a CVD label had a higher median systolic pressure in this dataset. Outlier points are hidden for readability, not removed from the analysis.
 
 ### The glucose result was unexpected
 
@@ -50,7 +50,7 @@ Above-normal glucose was not clearly associated with the CVD label in the adjust
 
 ![The unadjusted share of records with a CVD label in each cholesterol category.](../figures/cvd_label_by_cholesterol.png)
 
-**Figure 4. CVD-label share by cholesterol category.** This graph shows the unadjusted share of records labeled with CVD in each cholesterol category. It is a descriptive comparison, not the adjusted regression result shown in Figure 1. Source: our analysis of Dataset 1.
+**Figure 4. CVD labels across cholesterol categories.** This graph shows the unadjusted share of records labeled with CVD in each cholesterol category. It is a descriptive comparison, not the adjusted regression result shown in Figure 1. Source: our analysis of Dataset 1.
 
 ### A check on the model
 
@@ -82,6 +82,6 @@ This is a student data analysis. It is not medical advice, a diagnostic tool, or
 
 ## Acknowledgements
 
-Thank you to the organizers of Harvard's OpenBio, as well as all teammates and the advice from TerrierGPT.
+We want to thank the OpenBio Datathon organizers and our teammates. We also utilized TerrierGPT for writing and analysis support; our team reviewed and verified the final work.
 
 ---
