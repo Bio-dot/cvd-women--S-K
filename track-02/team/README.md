@@ -1,4 +1,4 @@
-# [Team R&S]: [Cholesterol and CVD Labels in Women-Coded Records]
+# Team R&S: Cholesterol and CVD Labels in Women-Coded Records
 
 OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
@@ -12,7 +12,7 @@ OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
 ## Research Question
 
-[Among records coded as women in Dataset 1, how are age, blood pressure, cholesterol, and glucose associated with the recorded CVD label?]
+Among records coded as women in Dataset 1, how are age, blood pressure, cholesterol, and glucose associated with the recorded CVD label?
 
 ## Datasets Used
 
