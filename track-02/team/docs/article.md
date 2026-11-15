@@ -36,11 +36,11 @@ In the model that included both blood-pressure measures, each additional year of
 
 These odds ratios use different units: age is measured per year and blood pressure per mmHg. Their values should not be compared directly to decide which factor is “strongest.” Systolic and diastolic pressure were positively correlated in our data (r = 0.740), so their separate adjusted estimates may be difficult to distinguish.
 
-![The share of records with a CVD label across age groups, using the age-group plot from the analysis notebook.](../figures/age_by_cvd_label.png)
+![The age distributions were different. Records with a CVD label had a higher median age than records without one.](../figures/age_by_cvd_label.png)
 
 **Figure 2. Age distributions by CVD label.** The line in each box marks the median age, and the box spans the middle half of ages. Records with a CVD label had a higher median age in this dataset. Outlier points are hidden for readability, not removed from the analysis.
 
-![The share of records with a CVD label across systolic blood-pressure groups.](../figures/systolic_bp_by_cvd_label.png)
+![Systolic blood pressure also had a higher median among records with a CVD label than among records without one.](../figures/systolic_bp_by_cvd_label.png)
 
 **Figure 3. Systolic blood pressure by CVD label.** The line in each box marks the median systolic pressure, and the box spans the middle half of readings. Records with a CVD label had a higher median systolic pressure in this dataset. Outlier points are hidden for readability, not removed from the analysis.
 
