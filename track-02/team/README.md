@@ -52,7 +52,6 @@ Dataset 1: Cardiovascular Disease Dataset*: individual-level records. We used re
 - The systolic and diastolic blood-pressure limits were team-selected data-quality screening rules, not medical or diagnostic cutoffs.
 - The AUC comes from one random split of this dataset. It does not establish performance in other populations or as a clinical tool.
 - Cholesterol and glucose are coded categories, not continuous measurements.
-- This project is not medical advice, a diagnostic tool, or clinical guidance.
 
 ## Presentation
 
