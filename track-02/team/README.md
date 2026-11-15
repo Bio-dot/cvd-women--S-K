@@ -16,11 +16,11 @@ Among records coded as women in Dataset 1, how are age, blood pressure, choleste
 
 ## Datasets Used
 
-- [ ] Dataset 1: Cardiovascular Disease Dataset
+- [x] Dataset 1: Cardiovascular Disease Dataset
 - [ ] Dataset 2: Heart Attack Risk Prediction Dataset (synthetic)
 - [ ] Dataset 3: Global CVD in Women, Tables S1 and S2
   
-Dataset 1: Cardiovascular Disease Dataset*: individual-level records. We used records with gender code 1, identified as the shorter-height group from this file. Datasets 2 and 3 were not used in this analysis.
+Dataset 1: Cardiovascular Disease Dataset: individual-level records. We used records with gender code 1, identified as the shorter-height group from this file. Datasets 2 and 3 were not used in this analysis.
   
 ## How to Run
 
@@ -42,7 +42,11 @@ Dataset 1: Cardiovascular Disease Dataset*: individual-level records. We used re
 
 ## Key Findings
 
-[Two or three sentences with effect sizes and confidence intervals.]
+Among 44,727 records coded as women, compared with normal cholesterol, above-normal cholesterol was associated with higher adjusted odds of a recorded CVD label (OR 1.454, 95% CI 1.362–1.552), as was well-above-normal cholesterol (OR 3.078, 95% CI 2.826–3.353). 
+
+Each additional year of age (OR 1.057, 95% CI 1.054–1.061), systolic mmHg (OR 1.059, 95% CI 1.056–1.061), and diastolic mmHg (OR 1.012, 95% CI 1.009–1.016) was also associated with higher adjusted odds, with both blood-pressure measures included in the model. 
+
+Above-normal glucose was not clearly associated with the label (OR 1.034, 95% CI 0.947–1.128), while well-above-normal glucose had a lower adjusted odds estimate (OR 0.745, 95% CI 0.677–0.819)—an unexpected finding that should not be interpreted as protective; these are associations, not causal effects.
 
 ## Limitations
 
