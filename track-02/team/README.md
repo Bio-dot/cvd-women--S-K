@@ -8,7 +8,7 @@ OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
 | Name | Role |
 |---|---|
-|Sophia Snyder|Direction, Analysis, Interpretation, Organization|
+|Sophia Hyder|Direction, Analysis, Interpretation, Organization|
 |Katsumi Nabwangu|Logistics|
 
 ## Research Question
