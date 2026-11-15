@@ -16,11 +16,11 @@ Among records coded as women in Dataset 1, how are age, blood pressure, choleste
 
 ## Datasets Used
 
-- [Y] Dataset 1: Cardiovascular Disease Dataset
+- [ ] Dataset 1: Cardiovascular Disease Dataset
 - [ ] Dataset 2: Heart Attack Risk Prediction Dataset (synthetic)
 - [ ] Dataset 3: Global CVD in Women, Tables S1 and S2
-- **Dataset 1: Cardiovascular Disease Dataset** — individual-level records. We used records with gender code 1, identified as the shorter-height group in this file.
-- Datasets 2 and 3 were not used in this analysis.
+  
+Dataset 1: Cardiovascular Disease Dataset*: individual-level records. We used records with gender code 1, identified as the shorter-height group from this file. Datasets 2 and 3 were not used in this analysis.
   
 ## How to Run
 
@@ -46,7 +46,13 @@ Among records coded as women in Dataset 1, how are age, blood pressure, choleste
 
 ## Limitations
 
-[Synthetic data, ecological fallacy, binary sex variable, anything else that limits your claims.]
+- The measurements and CVD label were recorded at a medical exam. This analysis describes associations with the recorded label; it does not establish what caused disease or predict future disease.
+- The outcome is common in this selected dataset, so odds ratios should not be described as risk ratios.
+- The data record sex using a binary variable. We refer to the analyzed subset as “records coded as women” and do not generalize beyond the categories and records available.
+- The systolic and diastolic blood-pressure limits were team-selected data-quality screening rules, not medical or diagnostic cutoffs.
+- The AUC comes from one random split of this dataset. It does not establish performance in other populations or as a clinical tool.
+- Cholesterol and glucose are coded categories, not continuous measurements.
+- This project is not medical advice, a diagnostic tool, or clinical guidance.
 
 ## Presentation
 
