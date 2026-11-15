@@ -77,6 +77,7 @@ This is a student data analysis. It is not medical advice, a diagnostic tool, or
 ## Data and Code
 
 - Repository: [Our team repository](https://github.com/Bio-dot/cvd-women--S-K)
+- [OpenBio repository](https://github.com/Harvard-Undergraduate-OpenBio/openbio-datathon-2026/tree/main)
 - Data sources: [Cardiovascular Disease Dataset](https://github.com/Harvard-Undergraduate-OpenBio/openbio-datathon-2026/blob/main/track-02/data/cardiovascular_dataset_OpenBio_Final.csv)
 - [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
